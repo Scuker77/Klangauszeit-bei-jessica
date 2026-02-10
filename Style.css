@@ -1,9 +1,20 @@
 body {
   margin: 0;
   font-family: "Georgia", serif;
-  background-color: #f6f4f1;
-  color: #3a3a3a;
+  background-color: #f4f6f3;
+  color: #2f3a33;
   line-height: 1.7;
+}
+
+header {
+  background-color: #dfe8e2;
+  padding: 3rem 1rem;
+  text-align: center;
+}
+
+h1, h2 {
+  color: #4f6b5a;
+}
 }
 
 header {
@@ -34,6 +45,7 @@ section {
   border-radius: 20px;
   box-shadow: 0 10px 25px rgba(47, 58, 51, 0.08);
   margin-bottom: 2rem;
+}
 }  
 }
 
