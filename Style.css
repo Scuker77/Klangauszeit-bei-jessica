@@ -41,3 +41,9 @@ footer {
   font-size: 0.9rem;
   color: #777;
 }
+.symbol {
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 1rem;
+  color: #6b8f7b;
+}
