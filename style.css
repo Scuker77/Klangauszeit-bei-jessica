@@ -59,7 +59,13 @@ footer {
 
 /* Mobile Anpassungen */
 @media (max-width: 600px) {
-
+  
+@media (max-width: 600px) {
+  .pause {
+    margin: 2rem auto;
+    width: 50px;
+  }
+}
   .pause {
   width: 60px;
   height: 1px;
