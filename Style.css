@@ -49,3 +49,31 @@ footer {
   margin-top: 1rem;
   color: #6b8f7b;
 }
+/* Mobile Anpassungen */
+@media (max-width: 600px) {
+
+  header {
+    padding: 2rem 1rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  section {
+    padding: 1.8rem 1rem;
+  }
+
+  .box {
+    padding: 1.5rem;
+    border-radius: 18px;
+  }
+
+  .symbol {
+    font-size: 1.6rem;
+  }
+}
