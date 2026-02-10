@@ -60,6 +60,14 @@ footer {
 /* Mobile Anpassungen */
 @media (max-width: 600px) {
 
+  .pause {
+  width: 60px;
+  height: 1px;
+  background-color: #b7c8be;
+  margin: 3rem auto;
+  opacity: 0.7;
+}
+
   header {
     padding: 2rem 1rem;
   }
