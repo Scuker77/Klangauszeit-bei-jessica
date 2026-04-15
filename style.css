@@ -100,8 +100,16 @@ footer {
   }
 
   .galerie {
-  background-color: #f5f3e7; /* gleicher ruhiger Hintergrund */
+  background-color: #f5f3e7;
   min-height: 100vh;
   padding: 40px 20px;
+}
+
+.galerie img {
+  width: 100%;
+  max-width: 500px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 16px;
 }
 
