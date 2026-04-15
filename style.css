@@ -113,3 +113,35 @@ footer {
   border-radius: 16px;
 }
 
+.impressionen-seite {
+  background-color: #f5f3e7;
+  color: #333;
+}
+
+.impressionen-seite nav {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.impressionen-seite nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #5f7666;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.galerie {
+  display: grid;
+  gap: 24px;
+  padding: 40px 20px;
+  justify-items: center;
+}
+
+.galerie img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  display: block;
+  border-radius: 16px;
+}
