@@ -98,4 +98,10 @@ footer {
   .symbol {
     font-size: 1.6rem;
   }
+
+  .galerie {
+  background-color: #f5f3e7; /* gleicher ruhiger Hintergrund */
+  min-height: 100vh;
+  padding: 40px 20px;
 }
+
