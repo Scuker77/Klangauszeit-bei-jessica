@@ -145,3 +145,14 @@ body.impressionen-seite {
   display: block;
   border-radius: 16px;
 }
+  nav a {
+  color: #5f7666;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-decoration: none;
+  margin: 0 12px;
+}
+
+nav a:hover {
+  color: #3f5646;
+}
