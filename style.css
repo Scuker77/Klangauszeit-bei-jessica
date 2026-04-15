@@ -113,7 +113,7 @@ footer {
   border-radius: 16px;
 }
 
-.impressionen-seite {
+body.impressionen-seite {
   background-color: #f5f3e7;
   color: #333;
 }
